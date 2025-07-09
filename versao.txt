@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/CletoPedro/DXFChecker/main/versao.txt
+1.2.0
